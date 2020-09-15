@@ -9,23 +9,17 @@
 
 ## Nom
 
-Skywalker
+Sahtan
 
 ## Prénom
 
-Luke
+Ibrahim
 
 ## Courte présentation
 
 Bonjour,
 
-Je m'appelle Luke.
-J'aime bien piloter des vaisseaux spatiaux en mode manuel.
-Et je aussi parler aux robots.
-Grand voyageur, j'ai visité plusieurs planètes.
-Malheureusement, mes voyages ne se terminent pas toujours bien.
-
-Je suis tantôt impulsif, tantôt grognon.
-Et j'ai une famille un peu compliquée.
-
-J'ai hâte d'apprendre à programmer en JavaScript.
+Je m'apelle Ibrahim, 
+je suis un sportif dans l'âme, étudiant en dernière année d'info gestion.
+Le cours de PID est mon tout dernier cours du cursus, je suis excité
+à l'idée de pouvoir pratiquer un peu tout ce qu'on a vu au cours de la formation en un seul cours !
